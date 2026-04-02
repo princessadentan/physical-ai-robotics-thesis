@@ -13,9 +13,9 @@ physical world is the hardest version of that problem.
 When I was a Special Projects Associate at Google X, the Everyday
 Robots group had their robotic arm farms set up throughout the X
 hangar in Mountain View. Alphabet deprecated Everyday Robots in
-February 2023. The project didn't offer a clear path to becoming a
+February 2023 because the project didn't offer a clear path to becoming a
 profitable, large-scale revenue generator. It may have been the right
-decision then. But I couldn't help wondering how Everyday Robots
+decision then, but I couldn't help wondering how Everyday Robots
 would have fared in this world. With physical AI and hardware-enabled
 software as the topics du jour, I decided to investigate.
 
